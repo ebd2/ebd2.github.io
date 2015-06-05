@@ -9,3 +9,5 @@ github_username:  ebd2
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
+permalink: /blog/:title
