@@ -3,7 +3,7 @@ title: Adventures in programming
 description: > # this means to ignore newlines until "baseurl:"
   The joyous process of discovery as I do new projects.
   Old projects documented so I don't have to repeat the joyous process of discovery.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://ebd2.github.io" # the base hostname & protocol for your site
 github_username:  ebd2
 
