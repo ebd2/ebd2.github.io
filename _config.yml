@@ -1,4 +1,5 @@
 # Site settings
+
 title: Adventures in programming
 description: > # this means to ignore newlines until "baseurl:"
   The joyous process of discovery as I do new projects.
