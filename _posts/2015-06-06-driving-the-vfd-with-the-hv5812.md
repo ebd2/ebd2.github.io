@@ -44,3 +44,5 @@ As noted earlier, the through-hole version of the HV5812 is .6" wide.  It really
 I'm using the GPIO pins on the MCU and toggling them as needed to drive the HV5812 for now.  The ATmega328 is running at 8MHz divided down to 1MHz, and the HV5812 will take data at 5MHz.  To allow the required setup time for DATA_IN, I'm setting or clearing its output in one line, and then setting the clock in the next.  If this compiles down to two OUT instructions (as is the case when there's already a register containing the value I'm outputing), I'm sending data at 500KHz.
 
 The quick and dirty code to validate all of this is [here](https://github.com/ebd2/blink_vfd)
+
+Next time: letters and numbers!
