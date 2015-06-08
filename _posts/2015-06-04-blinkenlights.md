@@ -74,3 +74,5 @@ make install and ... nothing.  If this isn't your first rodeo, you may have spot
 </pre>
 
 The ioinit() function is located at address 0x0?  That seems fishy.  The datasheet confirms that address 0x0 should be the reset handler.  It looks like a missing linker option.  A little more Googling turned up Ladyada's [Blinky tutorial](http://www.ladyada.net/learn/proj1/blinky.html).  Her tutorial is on Windows, but she's using the same toolchain and has screenshots from the build process.  With a little bit of -mmcu=atmega328 here and some $(LDFLAGS) there, I got blinking.
+
+See the code [here](https://github.com/ebd2/blink)
