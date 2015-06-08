@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "So I have these VFDs"
+title:  "So I have these VFDs..."
 date:   2015-06-03 12:00:00
 categories: projects vfd-clock
 ---
 
 All things Nixie tube made their rounds on the internet back when I was in college.  The obvious coolness of the various clocks people had built led me down the path of thinking I should build one too.  This notwithstanding the fact that I had no soldering iron, no experience in electronics other than Science Olympiad in high school, and these things run on *how* many volts?!
 
-Undeterred, I swung by Mendelsons the next time I was home.  Mendelsons does surplus and liquidation of nearly anything, but especially electronics.  Electronics are on the third floor, reachable only by a manually operated freight elevator.  Stock is organized by the aisle, and wire is sold by the pound.  It's a tremendous place to go if you have more time than money or are a firm believer in the power of serendipity.
+Undeterred, I swung by [Mendelsons](http://meci.com/) the next time I was home in Dayton, OH.  Mendelsons does surplus and liquidation of nearly anything, but especially electronics.  Electronics are on the third floor, reachable only by a manually operated freight elevator.  Stock is organized by the aisle, and wire is sold by the pound.  It's a tremendous place to go if you have more time than money or are a firm believer in the power of serendipity.
 
-One time, the guy checking me out told me a story of a couple of MPs coming by to reclaim sensitive parts from the cancelled B-1A after the B-1 program was revived as the B-1B.  I can't speak to whether or not this story was strictly true, but having spent a number of afternoons wandering and wondering through the store, it's certainly plausible.
+One time, the guy at the register told me a story of a couple of MPs coming by to reclaim sensitive parts from the cancelled B-1A after the B-1 program was revived as the B-1B.  I can't speak to whether or not this story was strictly true, but having spent a number of afternoons wandering and wondering through the store, it's certainly plausible.
 
-Not far from the bathrooms is the "Tube Room", and there I found no Nixie tubes, which is probably just as well.  I did however find a whole mess of NEC LD8113 vacuum fluorescent display (VFD) tubes and bought four of them.  Mendelsons still sells these.  You can purchase them online for the eye-watering sum of [$34](http://meci.com/nec-tube-display-ld8113.html "Holy crap") each.  I'm certain that I did not pay $34 a piece for mine, but I can infer from the fact that I only bought 4 that that they weren't especially cheap either.
+Not far from the bathrooms is the "Tube Room", and there I found no Nixie tubes, which is probably just as well.  I did however find a whole mess of NEC LD8113 vacuum fluorescent display (VFD) tubes and bought four of them.  Mendelsons still sells these.  You can purchase them online for the eye-watering sum of [$34](http://meci.com/nec-tube-display-ld8113.html "Holy crap") each.  I'm certain that I did not pay $34 a piece for mine, but I can infer from the fact that I only bought 4 that that they weren't especially cheap either, even 12 years ago.
 
 I let the tubes sit in various drawers through college and beyond.  I eventually got a soldering iron and took digital logic lab my final year of college, but I never made the time to do anything with them ... until now.
 
