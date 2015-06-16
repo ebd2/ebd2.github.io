@@ -8,8 +8,40 @@ layout: default
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
+  <p>
+  {% if page.previous and page.previous.categories == page.categories %}
+    <a href="{{ page.previous.url }}">&lt;-- {{page.previous.title}}</a>
+  {% else %}
+    x-- It all began here
+  {% endif %}
+
+  |
+
+  {% if page.next and page.next.categories == page.categories %}
+    <a href="{{ page.next.url }}">{{page.next.title}} --&gt;</a>
+  {% else %}
+    To be continued ... --x
+  {% endif %}
+  </p>
+
   <article class="post-content">
     {{ content }}
   </article>
+
+  <p>
+  {% if page.previous and page.previous.categories == page.categories %}
+    <a href="{{ page.previous.url }}">&lt;-- {{page.previous.title}}</a>
+  {% else %}
+    x-- It all began here
+  {% endif %}
+
+  |
+
+  {% if page.next and page.next.categories == page.categories %}
+    <a href="{{ page.next.url }}">{{page.next.title}} --&gt;</a>
+  {% else %}
+    To be continued ... --x
+  {% endif %}
+  </p>
 
 </div>

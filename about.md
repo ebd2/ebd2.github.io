@@ -38,4 +38,4 @@ Newly adventuring in
 * Designed and sewed my own tent for my AT thru-hike
 * Transplanted an EJ-22 from a 2001 Subaru Impreza into a 1986 Subaru BRAT
 * Owned and replaced the clutch on a British racing green Triumph TR6
-* I have these VFD tubes...
+* [So I have these VFD tubes...](/projects/vfd-clock/2015/06/03/so-i-have-these-vfds.html)
