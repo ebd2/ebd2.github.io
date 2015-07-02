@@ -31,11 +31,11 @@ Newly adventuring in
 
 * Boundary Waters Canoe Area Wilderness guide
 * Appalachian Trail thru-hiker
-* United State bicycle traveler
+* United States bicycle traveler
 
 ####Implementer of bad ideas/Caretaker of obsolete cars####
 
-* Designed and sewed my own tent for my AT thru-hike
+* Designed and sewed my own [tent](/images/tent.jpg) for my AT thru-hike
 * Transplanted an EJ-22 from a 2001 Subaru Impreza into a 1986 Subaru BRAT
 * Owned and replaced the clutch on a British racing green Triumph TR6
 * [So I have these VFD tubes...](/projects/vfd-clock/2015/06/03/so-i-have-these-vfds.html)
