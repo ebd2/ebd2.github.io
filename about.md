@@ -6,9 +6,9 @@ permalink: /about/
 
 ![Eric on Mount Washington](/images/eric.jpg)
 
-###Eric Diven###
+### Eric Diven
 
-####Programmer####
+#### Programmer
 
 Experience in
 
@@ -27,13 +27,13 @@ Newly adventuring in
 * Soldering
 * Not burning my house down
 
-####Adventurer####
+#### Adventurer
 
 * Boundary Waters Canoe Area Wilderness guide
 * Appalachian Trail thru-hiker
 * United States bicycle traveler
 
-####Implementer of bad ideas/Caretaker of obsolete cars####
+#### Implementer of bad ideas/Caretaker of obsolete cars
 
 * Designed and sewed my own [tent](/images/tent.jpg) for my AT thru-hike
 * Transplanted an EJ-22 from a 2001 Subaru Impreza into a 1986 Subaru BRAT
